@@ -1,7 +1,7 @@
 # mycode (Project Title)
 
 Needing to Learn how to track my code
-
+Wanting to learn how to version control projects with git
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
